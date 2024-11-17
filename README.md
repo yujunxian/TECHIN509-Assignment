@@ -30,3 +30,5 @@ A pop-up input box will appear asking, "Which turtle will win? Enter Color:".
 Turtles will move forward randomly until one crosses the finish line.
 * **Outcome:**
 The program will announce the winner and whether your bet was correct.
+* **Exit:** 
+Click on the window to exit the display.
